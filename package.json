@@ -1,0 +1,38 @@
+{
+  "name": "My-Fantasyn",
+  "version": "1.1.2",
+  "description": "test task with Phaser 3",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "webpack --config webpack/prod.js ",
+    "start": "webpack-dev-server --config webpack/base.js --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnatoliiSkuba/My-Fantasy-Make-Your-Story.git"
+  },
+  "author": "Anatolii Skuba",
+  "license": "MIT",
+  "licenseUrl": "http://www.opensource.org/licenses/mit-license.php",
+  "bugs": {
+    "url": "https://github.com/AnatoliiSkuba/My-Fantasy-Make-Your-Story/issues"
+  },
+  "homepage": "https://github.com/AnatoliiSkuba/My-Fantasy-Make-Your-Story",
+  "devDependencies": {
+    "@babel/core": "^7.17.8",
+    "@babel/preset-env": "^7.16.11",
+    "babel-loader": "^8.2.4",
+    "clean-webpack-plugin": "^3.0.0",
+    "file-loader": "^4.3.0",
+    "html-webpack-plugin": "^3.2.0",
+    "raw-loader": "^3.1.0",
+    "terser-webpack-plugin": "^2.3.8",
+    "webpack": "^4.46.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.3",
+    "webpack-merge": "^4.2.2"
+  },
+  "dependencies": {
+    "phaser": "^3.55.2"
+  }
+}
