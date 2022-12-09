@@ -1,5 +1,5 @@
 {
-  "name": "My-Fantasyn",
+  "name": "My-Fantasy",
   "version": "1.1.2",
   "description": "test task with Phaser 3",
   "main": "src/index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AnatoliiSkuba/My-Fantasy-Make-Your-Story.git"
+    "url": "git+https://github.com/AnatolySkuba/My-Fantasy-Make-Your-Story.git"
   },
   "author": "Anatolii Skuba",
   "license": "MIT",
   "licenseUrl": "http://www.opensource.org/licenses/mit-license.php",
   "bugs": {
-    "url": "https://github.com/AnatoliiSkuba/My-Fantasy-Make-Your-Story/issues"
+    "url": "https://github.com/AnatolySkuba/My-Fantasy-Make-Your-Story/issues"
   },
-  "homepage": "https://github.com/AnatoliiSkuba/My-Fantasy-Make-Your-Story",
+  "homepage": "https://github.com/AnatolySkuba/My-Fantasy-Make-Your-Story",
   "devDependencies": {
     "@babel/core": "^7.17.8",
     "@babel/preset-env": "^7.16.11",
